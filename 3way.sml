@@ -1,0 +1,1 @@
+datatype 3tree = Empty | Node of int * int * 3tree * 3tree * 3tree;
